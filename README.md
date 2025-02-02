@@ -81,11 +81,6 @@ Detailed insights into the units I’ve completed:
    - **Unit 3 & 13 – Digital Portfolio & Website Development:** Covers the design, creation, and review of my digital and website portfolios.  
    - **Additional Units:** Considerations for future units like Database Development and Computer Networks.  
 
----
-
-## License  
-
-This project is open-source and free for use, modification, and distribution.  
 
 ---
 
